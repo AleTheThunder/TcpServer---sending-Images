@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServer - sending Images", "TcpServer - sending Images.csproj", "{F5249529-421B-4E67-AB96-685F90AD7FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5249529-421B-4E67-AB96-685F90AD7FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5249529-421B-4E67-AB96-685F90AD7FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5249529-421B-4E67-AB96-685F90AD7FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5249529-421B-4E67-AB96-685F90AD7FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0715A128-C71B-4A5F-A3BB-4AF7D42E3227}
+	EndGlobalSection
+EndGlobal
